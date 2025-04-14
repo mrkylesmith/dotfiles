@@ -1,0 +1,11 @@
+UseTab: Never
+AlignConsecutiveDeclarations: true
+BasedOnStyle: LLVM
+ColumnLimit: 80
+IndentWidth: 2 
+AccessModifierOffset: 0
+IndentAccessModifiers: true
+AllowAllArgumentsOnNextLine: true
+BinPackArguments: false
+BinPackParameters: false
+AllowShortFunctionsOnASingleLine: Empty
